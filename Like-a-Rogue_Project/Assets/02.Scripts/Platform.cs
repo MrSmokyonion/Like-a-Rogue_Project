@@ -4,28 +4,39 @@ using UnityEngine;
 
 public class Platform : MonoBehaviour
 {
-    public Transform root; // ÇÃ·¹ÀÌ¾î ¹ß À§Ä¡ (0, -0.75f, 0)  ¸Ó¸®À§Ä¡ (0, 0.75f, 0)
+    /// <summary>
+    /// ì˜¤ë¸Œì íŠ¸ ì¢…ë¥˜ 3ê°€ì§€
+    /// 1.ë‹¤ìš´ì í”„ ì•ˆë˜ëŠ” ì˜¤ë¸Œì íŠ¸  
+    /// 2.ë‹¤ìš´ì í”„ ë˜ëŠ” ì˜¤ë¸Œì íŠ¸   //DownPlatform
+    /// 3.ì•„ì˜ˆ í†µê³¼ ì•ˆë˜ëŠ” ì˜¤ë¸Œì íŠ¸ 
+    ///  == í”Œë«í¼ ì¢…ë¥˜ 3ê°€ì§€ 
+    /// </summary>
+    private float platform;
+    
+    int _playerLayer, _groundLayer;
 
-    int _playerLayer, _groundLayer, _downLayer;
+    public Transform root;
     // Start is called before the first frame update
     void Start()
     {
         _playerLayer = LayerMask.NameToLayer("Player");
-        _groundLayer = LayerMask.NameToLayer("Platform"); // 6
-        _downLayer = LayerMask.NameToLayer("DownPlatform"); // 14
+        _groundLayer = LayerMask.NameToLayer("Platform");
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        //Physics2D.IgnoreLayerCollision(_playerLayer, _groundLayer, false); // Platform ·¹ÀÌ¾î¿¡¼± Ãæµ¹
-        Physics2D.IgnoreLayerCollision(_playerLayer, _downLayer, true); // downPlatform ·¹ÀÌ¾î¿¡¼± Ãæµ¹ ¹«½Ã
-
-        if (Input.GetKey(KeyCode.S) && Input.GetButtonDown("Jump")) // JumpÅ°(½ºÆäÀÌ½º¹Ù)¿Í S(¾Æ·¡)¸¦ yÃà ¼Óµµ°¡ 0ÀÏ ¶§ ´©¸£¸é ´Ù¿îÁ¡ÇÁ
+        if (Input.GetKey(KeyCode.S) && Input.GetButtonDown("Jump")) // Jumpí‚¤(ìŠ¤í˜ì´ìŠ¤ë°”)ì™€ S(ì•„ë˜)ë¥¼ yì¶• ì†ë„ê°€ 0ì¼ ë•Œ ëˆ„ë¥´ë©´ ë‹¤ìš´ì í”„
         {
-            gameObject.layer = 14;
+            if (root.transform.position.y > this.transform.position.y)
+            {
+                Physics2D.IgnoreLayerCollision(_playerLayer,_groundLayer, true);
+            }
+            else
+            {
+                Physics2D.IgnoreLayerCollision(_playerLayer, _groundLayer, false);
+            }
         }
-        else if (transform.position.y > root.transform.position.y)
-            gameObject.layer = 6;
-    }
 }
+    }
