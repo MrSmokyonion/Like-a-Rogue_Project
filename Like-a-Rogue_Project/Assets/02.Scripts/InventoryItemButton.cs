@@ -17,10 +17,12 @@ public class InventoryItemButton : MonoBehaviour, IPointerEnterHandler, IPointer
 
     private WeaponStat m_weapon;
     private Image m_ButtonIcon;
+    private Image m_WeaponImage;
 
     private void OnValidate()
     {
         m_ButtonIcon = GetComponent<Image>();
+        m_WeaponImage = transform.GetChild(0).GetComponent<Image>();
     }
 
     //마우스를 버튼 위로 올렸을 때 UI 작업
@@ -51,13 +53,15 @@ public class InventoryItemButton : MonoBehaviour, IPointerEnterHandler, IPointer
     {
         m_weapon = _weapon;
         m_isItemExist = true;
-        m_ButtonIcon.sprite = m_weaponIcon_weapon;
+        //m_ButtonIcon.sprite = m_weaponIcon_weapon;
+        m_WeaponImage.gameObject.SetActive(true);
     }
     
     public void RemoveItemFromSlot()
     {
         m_weapon = null;
         m_isItemExist = false;
-        m_ButtonIcon.sprite = m_weaponIcon_none;
+        //m_ButtonIcon.sprite = m_weaponIcon_none;
+        m_WeaponImage.gameObject.SetActive(false);
     }
 }
