@@ -24,7 +24,7 @@ public class CameraController : MonoBehaviour
 
     }
 
-    private void OnDrawGizmos()
+    private void OnDrawGizmos() //카메라 범위 가시화
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireCube(center,size);  
