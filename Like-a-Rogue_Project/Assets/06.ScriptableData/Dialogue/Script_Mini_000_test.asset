@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5fd500c4bec1b4c8abefbe11be5d5b, type: 3}
+  m_Name: Script_Mini_000_test
+  m_EditorClassIdentifier: 
+  Scripts:
+  - name: NPC -1
+    str: Hello, there!
+  - name: NPC -1
+    str: You need any weapon?
+  - name: NPC -1
+    str: 'Multiple size string!
+
+      for example, anyway.'
+  - name: NPC -1
+    str: 'This is long, long, long, long size string.
+
+      for example, anyway.'
