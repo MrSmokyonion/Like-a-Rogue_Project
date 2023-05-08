@@ -24,7 +24,20 @@ public class DialogueUIController : MonoBehaviour, IPointerClickHandler
     public void Do_PrintScript(ScriptData _script)
     {
         m_UI_text_name.text = _script.name;
-        m_UI_text_str.text = _script.str;
+        
+        //m_UI_text_str.text = _script.str;
+        StopAllCoroutines();
+        StartCoroutine(TypeSentence(_script.str));
+    }
+
+    IEnumerator TypeSentence(string _sentence)
+    {
+        m_UI_text_str.text = "";
+        foreach (char letter in _sentence.ToCharArray())
+        {
+            m_UI_text_str.text += letter;
+            yield return new WaitForSeconds(0.05f);
+        }
     }
 
     public void OnPointerClick(PointerEventData eventData)
