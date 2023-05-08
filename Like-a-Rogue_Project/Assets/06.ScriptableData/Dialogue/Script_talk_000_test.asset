@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2c5fd500c4bec1b4c8abefbe11be5d5b, type: 3}
-  m_Name: Script_000_test
+  m_Name: Script_talk_000_test
   m_EditorClassIdentifier: 
   Scripts:
   - name: Player
