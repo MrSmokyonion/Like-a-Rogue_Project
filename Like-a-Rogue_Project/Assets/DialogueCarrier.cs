@@ -3,16 +3,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(CircleCollider2D))]
 public class DialogueCarrier : MonoBehaviour
 {
     [Header("Scripts")] public DialogueScripts scripts;
+    private MiniDialogueController m_miniDialogueController;
 
+    private void Start()
+    {
+        m_miniDialogueController = GetComponent<MiniDialogueController>();
+    }
 
     private void OnTriggerEnter2D(Collider2D col)
     {
+        Debug.Log("dialogue");
         if (col.tag == "Player")
         {
-            MiniDialogueController._instance.Do_ShowText(scripts);
+            m_miniDialogueController.Do_ShowText(scripts);
         }
     }
 
@@ -20,7 +27,7 @@ public class DialogueCarrier : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            MiniDialogueController._instance.Do_HideText();
+            m_miniDialogueController.Do_HideText();
         }
     }
 }

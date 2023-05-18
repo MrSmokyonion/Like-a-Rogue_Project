@@ -7,26 +7,20 @@ using Random = UnityEngine.Random;
 
 public class MiniDialogueController : MonoBehaviour
 {
-    public static MiniDialogueController _instance;
-    
     [Header("UI")] 
     public Text m_UI_text_size;
     public Text m_UI_text_visible;
 
-    private void Awake()
-    {
-        if (_instance != null)
-        {
-            Destroy(gameObject);
-            return;
-        }
+    private GameObject m_childCanvas;
 
-        _instance = this;
+    private void Start()
+    {
+        m_childCanvas = transform.GetChild(0).gameObject;
     }
 
     public void Do_ShowText(DialogueScripts _scripts)
     {
-        m_UI_text_size.gameObject.SetActive(true);
+        m_childCanvas.SetActive(true);
         int index = Random.Range(0, _scripts.Scripts.Count);
         m_UI_text_size.text = _scripts.Scripts[index].str;
         StartCoroutine(TypeSentence(_scripts.Scripts[index].str));
@@ -34,7 +28,7 @@ public class MiniDialogueController : MonoBehaviour
 
     public void Do_HideText()
     {
-        m_UI_text_size.gameObject.SetActive(false);
+        m_childCanvas.SetActive(false);
         StopAllCoroutines();
     }
     
