@@ -31,6 +31,10 @@ public class InventoryItemButton : MonoBehaviour, IPointerEnterHandler, IPointer
         if (!m_isItemExist) return;  //아이템 존재하는지 체크
 
         //해당 아이템의 세부 내용 UI 뜨게
+        if (Input.GetMouseButton(0))
+        {
+            return;
+        }
         RectTransform rt = GetComponent<RectTransform>();
         m_itemDetailUI.gameObject.SetActive(true);
         //m_itemDetailUI.position = new Vector3(rt.position.x, rt.position.y, m_itemDetailUI.position.z);
@@ -45,6 +49,7 @@ public class InventoryItemButton : MonoBehaviour, IPointerEnterHandler, IPointer
             return;
         
         //아이템 세부 UI 없애기
+
         m_itemDetailUI.gameObject.SetActive(false);
         Debug.Log("button mouse exit");
     }
@@ -63,5 +68,10 @@ public class InventoryItemButton : MonoBehaviour, IPointerEnterHandler, IPointer
         m_isItemExist = false;
         //m_ButtonIcon.sprite = m_weaponIcon_none;
         m_WeaponImage.gameObject.SetActive(false);
+    }
+
+    public void SetActiveItemDetailUI(bool _b = false)
+    {
+        m_itemDetailUI.gameObject.SetActive(_b);
     }
 }
