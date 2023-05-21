@@ -1,25 +1,42 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class DraggableUI : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    private Transform m_canvas;
+    [SerializeField] private Transform m_canvas;
     private Transform m_previousParent;
     private RectTransform m_rectTr;
     private CanvasGroup m_canvasGroup;
+    public bool m_isEquit = false; 
 
     void Start()
     {
-        m_canvas = FindObjectOfType<Canvas>().transform;
+        //m_canvas = FindObjectOfType<Canvas>().transform;
         m_rectTr = GetComponent<RectTransform>();
         m_canvasGroup = GetComponent<CanvasGroup>();
+    }
+
+    private void Update()
+    {
+        if (m_isEquit == false)
+        {
+            m_canvasGroup.alpha = 1f;
+        }
+        else if (m_isEquit == true)
+        {
+            m_canvasGroup.alpha = 0.6f;
+        }
     }
 
     //현재 오브젝트 드래그 시작시 1번 호출됨.
     public void OnBeginDrag(PointerEventData eventData)
     {
+        transform.parent.GetComponent<InventoryItemButton>().SetActiveItemDetailUI(false);
+        
         m_previousParent = transform.parent;
 
         transform.SetParent(m_canvas);
@@ -27,6 +44,7 @@ public class DraggableUI : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndD
 
         m_canvasGroup.alpha = 0.6f;
         m_canvasGroup.blocksRaycasts = false;
+        GetComponent<Image>().raycastTarget = false;
     }
 
     //현재 오브젝트 드래그 하는 내내 프레임마다 호출됨.
@@ -42,9 +60,10 @@ public class DraggableUI : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndD
         {
             transform.SetParent(m_previousParent);
             m_rectTr.position = m_previousParent.GetComponent<RectTransform>().position;
-            
-            m_canvasGroup.alpha = 1f;
-            m_canvasGroup.blocksRaycasts = true;
         }
+        
+        m_canvasGroup.alpha = 1f;
+        m_canvasGroup.blocksRaycasts = true;
+        GetComponent<Image>().raycastTarget = true;
     }
 }
