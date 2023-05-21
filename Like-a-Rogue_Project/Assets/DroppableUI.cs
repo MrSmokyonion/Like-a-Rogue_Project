@@ -1,27 +1,25 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
-public class DroppableUI : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointerExitHandler
+public class DroppableUI : MonoBehaviour, IDropHandler
 {
     private DraggableUI m_currentDroppedObject;
+    [HideInInspector] public Image m_imageRenderer;
 
-    public void OnPointerEnter(PointerEventData eventData)
+    private void Start()
     {
+        m_imageRenderer = GetComponent<Image>();
     }
 
-    public void OnPointerExit(PointerEventData eventData)
-    {
-    }
-    
     public void OnDrop(PointerEventData eventData)
     {
-        Debug.Log("Drop!");
-
         if (eventData.pointerDrag != null)
         {
-            Debug.Log("DROP!!!!");
+            Debug.Log("Drop!");
             GetComponent<CanvasGroup>().alpha = 1f;
             GameObject dropped = eventData.pointerDrag;
 
@@ -32,6 +30,7 @@ public class DroppableUI : MonoBehaviour, IDropHandler, IPointerEnterHandler, IP
             
             DraggableUI temp = dropped.GetComponent<DraggableUI>();
             temp.m_isEquit = true;
+            m_imageRenderer.sprite = temp.m_ImageRenderer.sprite;
             m_currentDroppedObject = temp;
         }
     }
