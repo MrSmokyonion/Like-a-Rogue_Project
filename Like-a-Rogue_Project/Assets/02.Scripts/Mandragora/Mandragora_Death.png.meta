@@ -1,0 +1,2005 @@
+fileFormatVersion: 2
+guid: 265e7bd8f62a80a40a015c1be6d38752
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mandragora_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6678
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8e094b55923c4aa5c3d3cc9283e63
+      internalID: 1889434412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 6678
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8997ca2f9348074e84b11cf799f62be
+      internalID: -1012773331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_2
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 6678
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d2635a0ceb5e4f80e3a2c99452a50
+      internalID: 188010842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_3
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6678
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce05d802dfeed478a97b3ed1c1eca5
+      internalID: -902586434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_4
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 6678
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61571ff829b229f4a902d3d42fe5e9d6
+      internalID: 2124182076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_5
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 6678
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a504387635f447a74a54d5e286c2b
+      internalID: -1212165269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6201
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04878b8e5ced1d46a937f4f8cadc47e
+      internalID: -863448905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 6201
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220743499d6f2d04aba4b99f1fab0203
+      internalID: -2129614488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 6201
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960fad72f5b02214aaa26f89b56c2177
+      internalID: 1685424083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6201
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949819a9577679040b2e3c164569aab8
+      internalID: -2030155676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_10
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 6201
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97040d48aa3c6fd459c01fc6a0ca00c9
+      internalID: -921698604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_11
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 6201
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e6fecf74928c4b9c98378325a6056
+      internalID: -644285373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5724
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4af1e1f675ed46b4dea2dca8a71d7
+      internalID: 1126916970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 5724
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90fe0936939e54c8ba94d127eb8735
+      internalID: 1532447274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_14
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 5724
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae477cbbd3e353b4a8e7a4218cdd5636
+      internalID: -1603352371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_15
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5724
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c69c86d153fa47bc728727281c63b
+      internalID: 309815362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_16
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 5724
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0760e940f286ef43b003bebe2420c23
+      internalID: 1989613451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_17
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 5724
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b817d8ceff13a428e0246d41fcde6c
+      internalID: -56232590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5247
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3be954fd00454a8cb6c0257b9e90e
+      internalID: -739765400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 5247
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85244ef8783258a439a3878ecd10bc64
+      internalID: -2083400516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_20
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 5247
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd4796e888a924faa0d74d13e54491
+      internalID: -1069062759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_21
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5247
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebfdd739bf53a44e8aee5811afca22a
+      internalID: -2085527634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_22
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 5247
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3ac050003a4b4889b21954a8ba7f2
+      internalID: 454698506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_23
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 5247
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05bf0d7494c2f41b629e552d7ae288
+      internalID: -376766837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4770
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201375c60e0be474b81e9267141884ca
+      internalID: 799032100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 4770
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b7f446e2f0f747a34dbb9917febef
+      internalID: -1956451127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_26
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 4770
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62c22c01a74ba4faf3ae1699aebf73
+      internalID: 32571164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_27
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4770
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4720c7360267ab94d9251336ba0b041f
+      internalID: -1151246722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_28
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 4770
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de6679679e271a409b4c85f962b9fa9
+      internalID: -101396283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_29
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 4770
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f07153853e8774692d3c7bb01379f0
+      internalID: -1349941379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4293
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d80662fe95a3947ba15b1b092c74bd
+      internalID: -338080218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_31
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 4293
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb28e8a9c6de146b0dc8ee5025a652
+      internalID: 1649963355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_32
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 4293
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7615fc88a0a6204f801278b0f63e134
+      internalID: -296494891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_33
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4293
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb39ca9e1d2d504c88304e0a3a65fe4
+      internalID: 108302177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_34
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 4293
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c281d48b5c704a9558fbb0dba34e6
+      internalID: -1398956323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_35
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 4293
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a5af99551fb404b9dfe4418f32beb7
+      internalID: 833872875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3816
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea8356fc1e91542bf68ee4db8e0c52
+      internalID: -2095040556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_37
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3816
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e2411a8f2c8f4aa7e95bca5b5ec7f
+      internalID: -675616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_38
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3816
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be8678e73f2cfb46bf710ad805d25b2
+      internalID: -2056284479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_39
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3816
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d31fe9c6eb42e429497138c4aa0b4b
+      internalID: 1713478032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_40
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 3816
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9beaf074ef814aa8e3a02b528ae39
+      internalID: 516708555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_41
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 3816
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776b8af1b89e84548b93d8f0a13b0153
+      internalID: 281381954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3339
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e9476b79c7104fa871d7af3216f87
+      internalID: 707433430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_43
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3339
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b5a8b2fc322e48935a275bb889979
+      internalID: -283002590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_44
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3339
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d5b1caf6a61db4f835a840c0ab3ccf
+      internalID: 1610345331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_45
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3339
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a632eba4823ee488a1e72d393bfad6
+      internalID: -1995247536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_46
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 3339
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d3a12783577d47b2727b8601cc305
+      internalID: -1565315802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_47
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 3339
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c8c4cf1942704bb1e295c1c076076
+      internalID: 1942113045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2862
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381e254f6c4d1742a08b993508ae364
+      internalID: -2125189079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_49
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2862
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10bd18c1a4de0e40be4c5f06590d267
+      internalID: -954906285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_50
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2862
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b948462de134ca4fa7f07809b5654f2
+      internalID: 213127999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_51
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2862
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cde60cc909634f9e0add16c4a652a
+      internalID: 1270731304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_52
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2862
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407da87148e73424c851f9bff9866167
+      internalID: -1375066413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_53
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 2862
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9cc8044305f049a3e643482792c37
+      internalID: 677747052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2385
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5505e915562c94baac09b77574e284
+      internalID: 1469157303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_55
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2385
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a127b972c7eb69f46b03661f200b207f
+      internalID: 550855266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_56
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2385
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba277a9e130aaa440a86adabd85c4d90
+      internalID: -1504377245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_57
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2385
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd39a17e97d8354d86b05c22de3d388
+      internalID: 996877606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_58
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2385
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1faf2cea7c25b4a83297e1cb781e29
+      internalID: -2055303942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_59
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 2385
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4118091362e8364438e328be7f86a0e1
+      internalID: -463601518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d4fae0defd884b95545fb77b4c13b
+      internalID: 1552081596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_61
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1908
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a8927a34360d41964c6d397aec5c9
+      internalID: -1271539042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_62
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1908
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b043a8b631184c896d4868c373906
+      internalID: 1053067626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_63
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1908
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2be856e36a88e47b87eb6d18d98051
+      internalID: -1688750959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_64
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1908
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b2287ff19c74b4f9b381e34b1d7205
+      internalID: 1363076256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_65
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1908
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d919248807c8478f29c63357f0594
+      internalID: -1162544430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1431
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8b4235c7c8db418b886787b4b4bc3
+      internalID: -349526035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_67
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1431
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d3b68b1000a34fae9362748ec28f1
+      internalID: 1155874972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_68
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1431
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238914306a7f59445a0ff9fbcc886981
+      internalID: 2006375305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_69
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1431
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11427bb73bb317a4db2326da45c10165
+      internalID: -1843059333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_70
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1431
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498704833d442a4e9f1f6369aee039f
+      internalID: -800209360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_71
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1431
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8612b9548afb11b43886aebcbec8f29f
+      internalID: 656481516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545db63f93ffdf3479d3c05e9278f1f3
+      internalID: -2028995158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_73
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 954
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9c89299c5ae454cbef3ea05c60bcb2
+      internalID: -188380286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_74
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 954
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd1837b2d21e14abaa0019a1532c2d
+      internalID: 88238143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_75
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 954
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20454ce3a185b864ba32ad60983cf83e
+      internalID: -1534215514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_76
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 954
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87415378f2d23f3409fa7acc268df983
+      internalID: -563969283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_77
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 954
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d486fddd194e0e0438b67caff6966b58
+      internalID: -2088901456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3214de069ee64698ef2f9a36287c1
+      internalID: -1549849064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_79
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 477
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474ad1550210bd4799189bd4c08e042
+      internalID: -238415189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_80
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 477
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edfd77c8d8e7f54787a306fcc2d427f
+      internalID: -1094791800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_81
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 477
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bb632bb31c0dc44a35c0e34d4712c3
+      internalID: 1289267137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_82
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 477
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09d4b92299a3c46a1b168bebb9a27b
+      internalID: -181390668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_83
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 477
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56514ae6a028c247871ca90e4f827c0
+      internalID: 1602804879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Death_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bc6991ec65a14aaf5a6841a40d75b
+      internalID: 1751650109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mandragora_Death_0: 1889434412
+      Mandragora_Death_1: -1012773331
+      Mandragora_Death_10: -921698604
+      Mandragora_Death_11: -644285373
+      Mandragora_Death_12: 1126916970
+      Mandragora_Death_13: 1532447274
+      Mandragora_Death_14: -1603352371
+      Mandragora_Death_15: 309815362
+      Mandragora_Death_16: 1989613451
+      Mandragora_Death_17: -56232590
+      Mandragora_Death_18: -739765400
+      Mandragora_Death_19: -2083400516
+      Mandragora_Death_2: 188010842
+      Mandragora_Death_20: -1069062759
+      Mandragora_Death_21: -2085527634
+      Mandragora_Death_22: 454698506
+      Mandragora_Death_23: -376766837
+      Mandragora_Death_24: 799032100
+      Mandragora_Death_25: -1956451127
+      Mandragora_Death_26: 32571164
+      Mandragora_Death_27: -1151246722
+      Mandragora_Death_28: -101396283
+      Mandragora_Death_29: -1349941379
+      Mandragora_Death_3: -902586434
+      Mandragora_Death_30: -338080218
+      Mandragora_Death_31: 1649963355
+      Mandragora_Death_32: -296494891
+      Mandragora_Death_33: 108302177
+      Mandragora_Death_34: -1398956323
+      Mandragora_Death_35: 833872875
+      Mandragora_Death_36: -2095040556
+      Mandragora_Death_37: -675616404
+      Mandragora_Death_38: -2056284479
+      Mandragora_Death_39: 1713478032
+      Mandragora_Death_4: 2124182076
+      Mandragora_Death_40: 516708555
+      Mandragora_Death_41: 281381954
+      Mandragora_Death_42: 707433430
+      Mandragora_Death_43: -283002590
+      Mandragora_Death_44: 1610345331
+      Mandragora_Death_45: -1995247536
+      Mandragora_Death_46: -1565315802
+      Mandragora_Death_47: 1942113045
+      Mandragora_Death_48: -2125189079
+      Mandragora_Death_49: -954906285
+      Mandragora_Death_5: -1212165269
+      Mandragora_Death_50: 213127999
+      Mandragora_Death_51: 1270731304
+      Mandragora_Death_52: -1375066413
+      Mandragora_Death_53: 677747052
+      Mandragora_Death_54: 1469157303
+      Mandragora_Death_55: 550855266
+      Mandragora_Death_56: -1504377245
+      Mandragora_Death_57: 996877606
+      Mandragora_Death_58: -2055303942
+      Mandragora_Death_59: -463601518
+      Mandragora_Death_6: -863448905
+      Mandragora_Death_60: 1552081596
+      Mandragora_Death_61: -1271539042
+      Mandragora_Death_62: 1053067626
+      Mandragora_Death_63: -1688750959
+      Mandragora_Death_64: 1363076256
+      Mandragora_Death_65: -1162544430
+      Mandragora_Death_66: -349526035
+      Mandragora_Death_67: 1155874972
+      Mandragora_Death_68: 2006375305
+      Mandragora_Death_69: -1843059333
+      Mandragora_Death_7: -2129614488
+      Mandragora_Death_70: -800209360
+      Mandragora_Death_71: 656481516
+      Mandragora_Death_72: -2028995158
+      Mandragora_Death_73: -188380286
+      Mandragora_Death_74: 88238143
+      Mandragora_Death_75: -1534215514
+      Mandragora_Death_76: -563969283
+      Mandragora_Death_77: -2088901456
+      Mandragora_Death_78: -1549849064
+      Mandragora_Death_79: -238415189
+      Mandragora_Death_8: 1685424083
+      Mandragora_Death_80: -1094791800
+      Mandragora_Death_81: 1289267137
+      Mandragora_Death_82: -181390668
+      Mandragora_Death_83: 1602804879
+      Mandragora_Death_84: 1751650109
+      Mandragora_Death_9: -2030155676
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

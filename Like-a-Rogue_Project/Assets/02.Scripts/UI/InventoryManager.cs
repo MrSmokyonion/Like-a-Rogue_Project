@@ -7,9 +7,14 @@ public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager _instance;
 
+    public int m_equitMainWeaponIndex = 0;
+    public int m_equitSubWeaponIndex = 1;
     public List<WeaponStat> m_weaponItems;
 
     [SerializeField] private List<InventoryItemButton> m_InventorySlots;
+
+    private InGameWeaponHpUIController m_ingameUIController;
+    private EquitWeaponUIController m_equitWeaponUIController;
 
     private void Awake()
     {
@@ -25,6 +30,9 @@ public class InventoryManager : MonoBehaviour
 
     private void Start()
     {
+        m_ingameUIController = FindObjectOfType<InGameWeaponHpUIController>();
+        m_equitWeaponUIController = FindObjectOfType<EquitWeaponUIController>();
+
         FreshInventorySlots();
     }
 
@@ -73,4 +81,22 @@ public class InventoryManager : MonoBehaviour
             Debug.Log("Inventory is Empty!");
         }
     }
+    
+    public void SwapWeaponMainSub()
+    {
+        //데이터 상의 스왑
+        (m_equitMainWeaponIndex, m_equitSubWeaponIndex) = (m_equitSubWeaponIndex, m_equitMainWeaponIndex);
+        
+        //UI 상의 스왑
+        m_ingameUIController.Do_SwapWeaponUI();
+        m_equitWeaponUIController.Do_SwapWeaponMainSub();
+        
+        //캐릭터 애니메이션 상의 스왑
+    }
+    
+    //Equit main 
+    //Equit sub
 }
+
+//TODO :
+//- 캐릭터 애니메이션 스왑 연동

@@ -1,0 +1,1413 @@
+fileFormatVersion: 2
+guid: 26e2de10d431fbb46bb05289184307d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mandragora_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4266
+        width: 756
+        height: 474
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6815d3c1aaf0e44da96021029db063a
+      internalID: -553117744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4261
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c31cbfc1f3b514f9b10484c1dd5119
+      internalID: -2122041713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 4266
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db8ecb948c61c41a5dba82369cb228
+      internalID: -449873083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 4266
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2330061e6192e847840dae5d24c5ea5
+      internalID: 695248737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4266
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb84429d1ebe914bbbcb67b6b467bc1
+      internalID: -85046994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 4266
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633bc8cdb0619254bb09871a9d90ef2c
+      internalID: 867236443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7118af1e782334b9abefe4f6abcf66
+      internalID: -1785868123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3792
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3c6f699524bc448f8462765250d91
+      internalID: 1622023151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3792
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde64cab395d884b98ba2db5914d206
+      internalID: -331096682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3792
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb42f496c80c7e4cb0d5940a21f8f12
+      internalID: 1689592318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3792
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81d3b220333b040a5be31feca2a168
+      internalID: -449680323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3792
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b85bd385353141ae79c3182654970
+      internalID: -1958436778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3318
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738e23589937014cb703ea7ab18a119
+      internalID: 1844968583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3318
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452e1039a798fca4880e378ce255e6ba
+      internalID: -175022088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3318
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44d59377be0b949998ebd940063a7a
+      internalID: -1459609576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3318
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f9f43f0397d84fa683046702702ec
+      internalID: 1791263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3318
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2140e127b79ae849a543fe7c9db3b5f
+      internalID: 92320671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3318
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca5c33a9944a74c844ca2bbc000782
+      internalID: -1466441289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93413906f03c74443a3f57c587ba10b5
+      internalID: -1021332427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2844
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837fd248dc464574cb68b6df72ef3c71
+      internalID: -266600722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2844
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9628cc1033d8a94a92e9e7f1090c593
+      internalID: 1325430840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2844
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b7d7ee830f96f4697803d47699a0af
+      internalID: -619750433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2844
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d41e34f707eb64f9ae6a592dbe32af
+      internalID: 293033586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2844
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736af330cc52a146b04ed78d39ece44
+      internalID: -542080368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcab606aa229f24d91c9a437e27db98
+      internalID: 1608272610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2370
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e47bfa48d64a34285d333dadda8587
+      internalID: 1920833014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2370
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd7d5d710ad3c941aff7d343cc8b408
+      internalID: -819711107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2370
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e70cfba3b4f941b91b507b10b308f
+      internalID: -1174033484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2370
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51dbd481f7d1649ba67371677d2064
+      internalID: 1386012857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2370
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381a44ce5beeb34d9c03cf4815364f9
+      internalID: -94985386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643457f2d9ffcf4fab31c7b373b4945
+      internalID: -1702423743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1896
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fe8e47185cd1a4cb6a6aeab675f993
+      internalID: 673249254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1896
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7c301280baf0408e70599b6ba802e
+      internalID: -472366781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1896
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1153b7e0047e35428dcae8d60af0d72
+      internalID: 899126752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1896
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5742b4745db73d4aba1193dee262914
+      internalID: -1202577974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1896
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c791721678fd6a439faf04e577d5053
+      internalID: -1101980032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679fec691e9484f4fac8cc29bf14c9b0
+      internalID: 1899298935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1422
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e89c46f9f23647ab19931852cdb95
+      internalID: -1626208588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1422
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ca76dbb2219343b9eb66a960fb951
+      internalID: -1935908209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1422
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d4f37a1e133146a8ffd5c1605852c
+      internalID: 1622205534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_40
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1422
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cb8bfd311c35409a1d77b30df99bf
+      internalID: 669066174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_41
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1422
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caafd961bc3a764199f2a0b8239a7f8
+      internalID: 870605460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ae7ccccdd0c574a8787c8bdecb34c8
+      internalID: 1622138870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 948
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3674f5978a4514d94829ac0f29e561
+      internalID: -1577281908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_44
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 948
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ececa1380e5d4198d94c2841fe95b
+      internalID: 875205004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_45
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 948
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d97d99182456a4d88f8b79f9c5b8d1
+      internalID: 1242419758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_46
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 948
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43dd7a693b733343aef5cbe07227dec
+      internalID: 899423210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_47
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 948
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d803e742a5f0bf44a4b81eb145d9de5
+      internalID: 999773212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cde25f28a5d654abad9a3265ff2687
+      internalID: -2006343923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 474
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378ece4c9eff5945a2648ecfc57caad
+      internalID: -911102245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_50
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 474
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d805fbe210b3acb4db88175d161887c6
+      internalID: -1505106352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_51
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 474
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807469de8a25c548ad5bffdcfc71669
+      internalID: -559214226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_52
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 474
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d3b5ef8953af46ad7b103b2a75da1
+      internalID: -1571830559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_53
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 474
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67edd72c9b040904491ecf40cbb3fd51
+      internalID: 448366463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a74df3e855c445a36ab3360745f87
+      internalID: -1950412273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_55
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e272abe78b79ce34cae85d4d31dea4a0
+      internalID: 771068257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_56
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49097a22d7c2b4ebd6f301fd3e6e2c
+      internalID: -1797211076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Attack_57
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 0
+        width: 756
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1239aa1d1d519a34a9f9bbf3e1f52d2d
+      internalID: -477582272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mandragora_Attack_0: -553117744
+      Mandragora_Attack_1: -2122041713
+      Mandragora_Attack_10: -449680323
+      Mandragora_Attack_11: -1958436778
+      Mandragora_Attack_12: 1844968583
+      Mandragora_Attack_13: -175022088
+      Mandragora_Attack_14: -1459609576
+      Mandragora_Attack_15: 1791263
+      Mandragora_Attack_16: 92320671
+      Mandragora_Attack_17: -1466441289
+      Mandragora_Attack_18: -1021332427
+      Mandragora_Attack_19: -266600722
+      Mandragora_Attack_2: -449873083
+      Mandragora_Attack_20: 1325430840
+      Mandragora_Attack_21: -619750433
+      Mandragora_Attack_22: 293033586
+      Mandragora_Attack_23: -542080368
+      Mandragora_Attack_24: 1608272610
+      Mandragora_Attack_25: 1920833014
+      Mandragora_Attack_26: -819711107
+      Mandragora_Attack_27: -1174033484
+      Mandragora_Attack_28: 1386012857
+      Mandragora_Attack_29: -94985386
+      Mandragora_Attack_3: 695248737
+      Mandragora_Attack_30: -1702423743
+      Mandragora_Attack_31: 673249254
+      Mandragora_Attack_32: -472366781
+      Mandragora_Attack_33: 899126752
+      Mandragora_Attack_34: -1202577974
+      Mandragora_Attack_35: -1101980032
+      Mandragora_Attack_36: 1899298935
+      Mandragora_Attack_37: -1626208588
+      Mandragora_Attack_38: -1935908209
+      Mandragora_Attack_39: 1622205534
+      Mandragora_Attack_4: -85046994
+      Mandragora_Attack_40: 669066174
+      Mandragora_Attack_41: 870605460
+      Mandragora_Attack_42: 1622138870
+      Mandragora_Attack_43: -1577281908
+      Mandragora_Attack_44: 875205004
+      Mandragora_Attack_45: 1242419758
+      Mandragora_Attack_46: 899423210
+      Mandragora_Attack_47: 999773212
+      Mandragora_Attack_48: -2006343923
+      Mandragora_Attack_49: -911102245
+      Mandragora_Attack_5: 867236443
+      Mandragora_Attack_50: -1505106352
+      Mandragora_Attack_51: -559214226
+      Mandragora_Attack_52: -1571830559
+      Mandragora_Attack_53: 448366463
+      Mandragora_Attack_54: -1950412273
+      Mandragora_Attack_55: 771068257
+      Mandragora_Attack_56: -1797211076
+      Mandragora_Attack_57: -477582272
+      Mandragora_Attack_58: 876072026
+      Mandragora_Attack_59: 1808749893
+      Mandragora_Attack_6: -1785868123
+      Mandragora_Attack_7: 1622023151
+      Mandragora_Attack_8: -331096682
+      Mandragora_Attack_9: 1689592318
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

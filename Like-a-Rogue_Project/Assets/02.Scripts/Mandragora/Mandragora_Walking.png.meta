@@ -1,0 +1,1413 @@
+fileFormatVersion: 2
+guid: 3c705ff3f83dca54fa1cf9ff0e9b669c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mandragora_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97aa673e74a97e48bf899a1c5665aaf
+      internalID: -1062248202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 4320
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729e5041375e948429ff0bfda223408f
+      internalID: -1306594152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 4320
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017b27027eac5648bd359612518c6ab
+      internalID: -966456399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 4320
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4452f83e7c6641b455a4741c409b2
+      internalID: -720751528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 4320
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d6d133848d42449ee1a299d90d5b9
+      internalID: -1622979282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 4320
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb048e7297b1bc4fb5743e82fd0890e
+      internalID: -701537574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59bb009fac14a459012c21d1e65fc0
+      internalID: 1781596253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3840
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba23fa63e70c8f4992c647606382332
+      internalID: -23633515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3840
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7cb8dc37856f448f685eecde5f83a
+      internalID: 1395966566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3840
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a68979aeb6b8594cbd675f6f05ca263
+      internalID: 18669740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3840
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03671536d880574f89cd6a085744551
+      internalID: 879104660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 3840
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d8becaf083374483912d957a1a5df
+      internalID: -1299583809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ad4bf2dabbbe4ead23ca6c29d1189
+      internalID: 1725677958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3360
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69bb2618e8dac74aa592561d66490a5
+      internalID: -1206380682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3360
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09d3d88b3476140b6d25caf62f3707
+      internalID: 1740358887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_15
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3360
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8780233e2e1f347a8a9219ad2bf432
+      internalID: 1467860454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_16
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3360
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec78401e25ac744ba9c2c255a8cdf7
+      internalID: 173420629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_17
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 3360
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18949f40e41f349ae94cef385c76c4
+      internalID: 1202601561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dae00f98607b64e9d2d370bda935c0
+      internalID: 1116210356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_19
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2880
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac2055fcd39e64597942793d6a2451
+      internalID: -262944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_20
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2880
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3572eaa813f8ba4590675670ea4e213
+      internalID: -93761173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_21
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2880
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03bc4eb9c2a3214291775514b21b725
+      internalID: -1958234151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_22
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2880
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f34d74ee33844f8ec63036a83e51f
+      internalID: 615826989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_23
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2880
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c560b07742ca4696a745b3f9b6b9f
+      internalID: -571872455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02af57f868ba754ab35718a6268318f
+      internalID: -1757156770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2400
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2ff52612f6724e9127d0a6d19022b
+      internalID: 1089403429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_26
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2400
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf25457780d8734aa514bf541bf4677
+      internalID: -1346331902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_27
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2400
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad284ead8a4ce409bbd33199babb72
+      internalID: -1869528616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_28
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2400
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e0b98d75dd514b8fd4e60c4f62e5c
+      internalID: 2028917094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_29
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2400
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729ae7cb2db85c4aa44a42b5ef4e5fd
+      internalID: -1585918455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c6e43d95a53a4eac1a16ba1e8f88d
+      internalID: 1626287230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_31
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1920
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef551d8e12871c44286b628353aa707d
+      internalID: 1130181872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_32
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1920
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb1021907aaf4c4fa8fd92851e1e82f
+      internalID: 1924567139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_33
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1920
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a19975f95e9549a392405157b16a1
+      internalID: -1261151324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_34
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1920
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a9529c26f14a4580f94ee49b839f9
+      internalID: -751614413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_35
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1920
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953f26d6a1f2844b8e2437d722688ed
+      internalID: 1969240846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0136b657c1af2e409252f1e2eea32a2
+      internalID: 2130659372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1440
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabca54ad8a69284ea774ccbd767fb1c
+      internalID: -789886956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_38
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1440
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dbcb0be8a84de47b6f9a11e9e97660
+      internalID: -1791529975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_39
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1440
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716adc40e123574cb69a8b8cbd55a54
+      internalID: -803819823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_40
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1440
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151ddf06568e06439912655a2d29dde
+      internalID: 1410434027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_41
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1440
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d908afb50b764c8a6e3e23ab605c7
+      internalID: -612756653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8d6a29e29c71498dc63016744adb9
+      internalID: 1183487903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_43
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 960
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c9263c3bf3524eb2ff369655d07a6
+      internalID: 911211302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_44
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 960
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241475947b104b84d94be15ce12b2255
+      internalID: -765380070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_45
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 960
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a4abc65431e48429636406f331c84b
+      internalID: 1071362231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_46
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 960
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b0267d9c9103c4da55ac0015734a15
+      internalID: -455748614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_47
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 960
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e66a3033a2cbd40b6d9f70d663c035
+      internalID: 2099918383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41f97de9c0b8d41b89c12e0454db9a
+      internalID: -552529724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_49
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 480
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e7c0a13959d34b885fb7900494256
+      internalID: -2147354331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_50
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 480
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2d514259e7794b9c1f48920d62227
+      internalID: 342134116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_51
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 480
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b0ba6645b76f429a982afa53d33f0
+      internalID: -443666687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_52
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 480
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6fa1389738b8340a2d8e513ee10291
+      internalID: 1294604718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_53
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 480
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54362a420fdb0644e96ef3572c519c1f
+      internalID: 608086405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c92be3532de894a9c33d8a982f98c3
+      internalID: 493004287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3859bc879d2ca0a49b4b19a937ba49eb
+      internalID: -1367394016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_56
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a0efc5af29c34d8ff1e48163665e3
+      internalID: -1205019768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Walking_57
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 537
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3458b9a580dc846b0427cc29a0f7f6
+      internalID: 1496748704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mandragora_Walking_0: -1062248202
+      Mandragora_Walking_1: -1306594152
+      Mandragora_Walking_10: 879104660
+      Mandragora_Walking_11: -1299583809
+      Mandragora_Walking_12: 1725677958
+      Mandragora_Walking_13: -1206380682
+      Mandragora_Walking_14: 1740358887
+      Mandragora_Walking_15: 1467860454
+      Mandragora_Walking_16: 173420629
+      Mandragora_Walking_17: 1202601561
+      Mandragora_Walking_18: 1116210356
+      Mandragora_Walking_19: -262944918
+      Mandragora_Walking_2: -966456399
+      Mandragora_Walking_20: -93761173
+      Mandragora_Walking_21: -1958234151
+      Mandragora_Walking_22: 615826989
+      Mandragora_Walking_23: -571872455
+      Mandragora_Walking_24: -1757156770
+      Mandragora_Walking_25: 1089403429
+      Mandragora_Walking_26: -1346331902
+      Mandragora_Walking_27: -1869528616
+      Mandragora_Walking_28: 2028917094
+      Mandragora_Walking_29: -1585918455
+      Mandragora_Walking_3: -720751528
+      Mandragora_Walking_30: 1626287230
+      Mandragora_Walking_31: 1130181872
+      Mandragora_Walking_32: 1924567139
+      Mandragora_Walking_33: -1261151324
+      Mandragora_Walking_34: -751614413
+      Mandragora_Walking_35: 1969240846
+      Mandragora_Walking_36: 2130659372
+      Mandragora_Walking_37: -789886956
+      Mandragora_Walking_38: -1791529975
+      Mandragora_Walking_39: -803819823
+      Mandragora_Walking_4: -1622979282
+      Mandragora_Walking_40: 1410434027
+      Mandragora_Walking_41: -612756653
+      Mandragora_Walking_42: 1183487903
+      Mandragora_Walking_43: 911211302
+      Mandragora_Walking_44: -765380070
+      Mandragora_Walking_45: 1071362231
+      Mandragora_Walking_46: -455748614
+      Mandragora_Walking_47: 2099918383
+      Mandragora_Walking_48: -552529724
+      Mandragora_Walking_49: -2147354331
+      Mandragora_Walking_5: -701537574
+      Mandragora_Walking_50: 342134116
+      Mandragora_Walking_51: -443666687
+      Mandragora_Walking_52: 1294604718
+      Mandragora_Walking_53: 608086405
+      Mandragora_Walking_54: 493004287
+      Mandragora_Walking_55: -1367394016
+      Mandragora_Walking_56: -1205019768
+      Mandragora_Walking_57: 1496748704
+      Mandragora_Walking_58: -1135657237
+      Mandragora_Walking_59: -1865781547
+      Mandragora_Walking_6: 1781596253
+      Mandragora_Walking_7: -23633515
+      Mandragora_Walking_8: 1395966566
+      Mandragora_Walking_9: 18669740
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

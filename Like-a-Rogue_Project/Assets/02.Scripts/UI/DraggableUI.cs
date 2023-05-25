@@ -8,16 +8,19 @@ using UnityEngine.UI;
 public class DraggableUI : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     [SerializeField] private Transform m_canvas;
+    
     private Transform m_previousParent;
     private RectTransform m_rectTr;
     private CanvasGroup m_canvasGroup;
-    public bool m_isEquit = false; 
+    [HideInInspector] public bool m_isEquit = false;
+    [HideInInspector] public Image m_ImageRenderer;
 
     void Start()
     {
         //m_canvas = FindObjectOfType<Canvas>().transform;
         m_rectTr = GetComponent<RectTransform>();
         m_canvasGroup = GetComponent<CanvasGroup>();
+        m_ImageRenderer = GetComponent<Image>();
     }
 
     private void Update()

@@ -15,13 +15,11 @@ public class InGameUIController : MonoBehaviour
 
     private void Update()
     {
-        PopUpInventory();
+        if(Input.GetKeyDown(KeyCode.I)) { PopUpInventory(); }
     }
 
-    private void PopUpInventory()
+    public void PopUpInventory()
     {
-        if (Input.GetKeyDown(KeyCode.I))
-        {
             DOTweenAnimation dot1 = m_InventoryUI.GetComponent<DOTweenAnimation>();
             DOTweenAnimation dot2 = m_PlayerStatusUI.GetComponent<DOTweenAnimation>();
             DOTweenAnimation dot3 = m_ResumeUI.GetComponent<DOTweenAnimation>();
@@ -39,6 +37,5 @@ public class InGameUIController : MonoBehaviour
                 dot3.DORestartById("POPUP");
                 m_isInventoryPopUp = true;
             }
-        }
     }
 }

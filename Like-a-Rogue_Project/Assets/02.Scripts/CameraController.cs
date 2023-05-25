@@ -40,7 +40,7 @@ public class CameraController : MonoBehaviour
     {
         
         transform.position = Vector3.Lerp(transform.position, target.position, Time.deltaTime *cameraSpeed); // 선형보간으로 플레이어 추적
-
+        
         float lx = size.x * 0.5f - width; // 플레이어의 현재 x값에서 맵 가로길이를 뺸 값 (width값이 가로길이의 절반이므로 플레이어 x값에 0.5를 곱함)
         // lx + center.x == 최댓값, -lx + center.x == 최솟값
         float clampX = Mathf.Clamp(transform.position.x, -lx +center.x, lx + center.x); //value값이 min과 max사이면 value, min보다 작으면 min, max보다 크면 max를 반환

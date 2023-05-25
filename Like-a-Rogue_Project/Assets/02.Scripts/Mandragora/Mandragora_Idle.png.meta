@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: 194c2ac13f460c24ab392be8a9d6c56e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mandragora_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b51e0c8db4294f84f11d9ef0f7ff2
+      internalID: -2093161274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127e93bfe084314397a73ae86561f24
+      internalID: -133709762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c03c88f6b14440a20b5e315a78543
+      internalID: -247798029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee78e13e96a12948938d10fd4fef86d
+      internalID: 293242757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9012d37ff0be9469635c2195897ed0
+      internalID: 1649171647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e28d3b9ecac83c4b83fdb434fa29c5a
+      internalID: -1047360051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ca7e716a89a44e934315084531bdf
+      internalID: 1113399069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be9e191b7a2fb47b9b419dadca2314
+      internalID: 201814011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 3318
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93157ef2444784c961613ee2c6ae16
+      internalID: 1053685747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41a7e486784364ab4137a95a50fc3e
+      internalID: -351035719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dffbe4c179f124496654c0c1a0db3d
+      internalID: 118266824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef1dc7a9a48618408544fc4c2eb13f5
+      internalID: -546619363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301efff01e73bae4ea23cdbdd770b2e2
+      internalID: -1796874531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae15c18c96df0408ac881211f60346
+      internalID: -746031539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be29a7799c2d944599ff75b3583ddb7
+      internalID: -2117597730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675b3666364a8548b9f0cee520d7489
+      internalID: -2044388932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60415648ad2f4343a3d02893a597e14
+      internalID: 1285937823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 2844
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561185ee04adb44194008302f3248cf
+      internalID: 2066737117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a67ecd681d03c848b1c0b0ab3267e4c
+      internalID: 1356103374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0f38e860837441a6c9751fb7626c3
+      internalID: -187109004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692b8722c81c1342a71bf54fb0d2256
+      internalID: -878799219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e66f9d074e23b744b3b65fe4e2ed9cc
+      internalID: -1584003901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e09cb744af9a341a4161a42c77c7aa
+      internalID: 1912839966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03e9792f428e4458f8bda15fbc4644
+      internalID: 1771037692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ab1ffb0f32394ba86962c59883926
+      internalID: 1787491508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d12ee800f74a3f4e84f2c871463a729
+      internalID: 1946703599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 2370
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e9b2e305762a4fa1d8d60a8bc3718
+      internalID: 1723304681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6ece007626f34994585025a0a1a8a
+      internalID: -493328861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c7ed228b8ff8d4dbf1a47c2ec1eed5
+      internalID: -1663900206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ef5103e91cd8647b2855fa7f164957
+      internalID: -295425597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a19fdf3383b0f41abdb297e5e7805c
+      internalID: -1642408199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d130d5ea30aa42499f55d05bb1f1a5a
+      internalID: -1220732859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d009946c6cba7244a8bf905377c909a
+      internalID: 125806390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52adc1497019e64e859ea71f73ae679
+      internalID: -1901818173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c62a37b8fd32f44910e69d0a63d51b
+      internalID: -1683160238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 1896
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd91eee9288cba40879444281237676
+      internalID: 450263432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047773fb193d2ed4790dc2f72e99d8be
+      internalID: 24733408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0911802e1a7343882556eee456d1f
+      internalID: 239578240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b738c660780c64e4599ebb99d8243be7
+      internalID: -52920348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad46ab704d4f9b045bacea733375b7e0
+      internalID: -1644995636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caba526c17508644f91cce1cd7fc540d
+      internalID: -1704111741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba1147b0299654aa5220442d01cab0
+      internalID: -1255419656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3fbbd73f1d6b46a5fbdce4db025a7
+      internalID: 264564905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ea7dbacfc22546a32bf8abba716b5
+      internalID: -146341972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 1422
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432560a14163e4e4b8e76ded3a03cbf2
+      internalID: 546183196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759be2b35ad47354296cdc6c81462d49
+      internalID: 61005580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcbd099b3e80c446a98975dede6e294
+      internalID: -1167632564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36724aad56ce94b4f987b181ad4c3069
+      internalID: -1244373509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51918fdd08341db4dae36bed5cdf89df
+      internalID: 85807093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f40d1714ea8d4cb303646aa92d8a2
+      internalID: 246998483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a61b8e051111664db0ca2da25b765ad
+      internalID: 1166302280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1fcc464b2398047b5b0d65080446c3
+      internalID: 671764458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775a843d14890044cbbc883df75606c1
+      internalID: -414197863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 948
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e28944ed7970c241868012eeb139d0b
+      internalID: 922026406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a7d25b4c798a4d8a66807d698636f
+      internalID: 155381517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7878be0771e32f40a4f007eb8dd594a
+      internalID: -101147037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d30ad86b05824fbf2fe69f56e24e6
+      internalID: 1416049869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1327f62a6f35342a4432c446ebc57e
+      internalID: 1725791478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84815fd4549e51b4b852f756d0ad0cf6
+      internalID: 1474926871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81004a8b1dbefb41a9499a9eb775322
+      internalID: -345059909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a7c168c2068b49a1590029c2bd2d3
+      internalID: -813567306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859b7f09c915594096f4d3845baad24
+      internalID: 1156395567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 474
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb9abc95a15dc4a862ce4bc2ac4719
+      internalID: -640657226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94c4ee7a355d34e9211cb33000fd68
+      internalID: -1356627027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_64
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bf799c45d73b34b9301501550af7ed
+      internalID: -253648632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_65
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6e6416352fc242bac09cfcebea6ed
+      internalID: -935279049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_66
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c0012c586b5a4b9b1658eea02fc63
+      internalID: 670535393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_67
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547a5c02ba5ddf45bb717ff13ceb719
+      internalID: 336555707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_68
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc7717d06d1504b8b94e068a333c78
+      internalID: 877272556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_69
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959f430646b043438e20c770f658abc
+      internalID: 1349210519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_70
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0f84dcf0370d148bde867bc3985d56
+      internalID: 52630340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_Idle_71
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 0
+        width: 526
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4cce22661c9540a05b6f77d378eb1
+      internalID: -1327091705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mandragora_Idle_0: -2093161274
+      Mandragora_Idle_1: -133709762
+      Mandragora_Idle_10: 118266824
+      Mandragora_Idle_11: -546619363
+      Mandragora_Idle_12: -1796874531
+      Mandragora_Idle_13: -746031539
+      Mandragora_Idle_14: -2117597730
+      Mandragora_Idle_15: -2044388932
+      Mandragora_Idle_16: 1285937823
+      Mandragora_Idle_17: 2066737117
+      Mandragora_Idle_18: 1356103374
+      Mandragora_Idle_19: -187109004
+      Mandragora_Idle_2: -247798029
+      Mandragora_Idle_20: -878799219
+      Mandragora_Idle_21: -1584003901
+      Mandragora_Idle_22: 1912839966
+      Mandragora_Idle_23: 1771037692
+      Mandragora_Idle_24: 1787491508
+      Mandragora_Idle_25: 1946703599
+      Mandragora_Idle_26: 1723304681
+      Mandragora_Idle_27: -493328861
+      Mandragora_Idle_28: -1663900206
+      Mandragora_Idle_29: -295425597
+      Mandragora_Idle_3: 293242757
+      Mandragora_Idle_30: -1642408199
+      Mandragora_Idle_31: -1220732859
+      Mandragora_Idle_32: 125806390
+      Mandragora_Idle_33: -1901818173
+      Mandragora_Idle_34: -1683160238
+      Mandragora_Idle_35: 450263432
+      Mandragora_Idle_36: 24733408
+      Mandragora_Idle_37: 239578240
+      Mandragora_Idle_38: -52920348
+      Mandragora_Idle_39: -1644995636
+      Mandragora_Idle_4: 1649171647
+      Mandragora_Idle_40: -1704111741
+      Mandragora_Idle_41: -1255419656
+      Mandragora_Idle_42: 264564905
+      Mandragora_Idle_43: -146341972
+      Mandragora_Idle_44: 546183196
+      Mandragora_Idle_45: 61005580
+      Mandragora_Idle_46: -1167632564
+      Mandragora_Idle_47: -1244373509
+      Mandragora_Idle_48: 85807093
+      Mandragora_Idle_49: 246998483
+      Mandragora_Idle_5: -1047360051
+      Mandragora_Idle_50: 1166302280
+      Mandragora_Idle_51: 671764458
+      Mandragora_Idle_52: -414197863
+      Mandragora_Idle_53: 922026406
+      Mandragora_Idle_54: 155381517
+      Mandragora_Idle_55: -101147037
+      Mandragora_Idle_56: 1416049869
+      Mandragora_Idle_57: 1725791478
+      Mandragora_Idle_58: 1474926871
+      Mandragora_Idle_59: -345059909
+      Mandragora_Idle_6: 1113399069
+      Mandragora_Idle_60: -813567306
+      Mandragora_Idle_61: 1156395567
+      Mandragora_Idle_62: -640657226
+      Mandragora_Idle_63: -1356627027
+      Mandragora_Idle_64: -253648632
+      Mandragora_Idle_65: -935279049
+      Mandragora_Idle_66: 670535393
+      Mandragora_Idle_67: 336555707
+      Mandragora_Idle_68: 877272556
+      Mandragora_Idle_69: 1349210519
+      Mandragora_Idle_7: 201814011
+      Mandragora_Idle_70: 52630340
+      Mandragora_Idle_71: -1327091705
+      Mandragora_Idle_8: 1053685747
+      Mandragora_Idle_9: -351035719
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

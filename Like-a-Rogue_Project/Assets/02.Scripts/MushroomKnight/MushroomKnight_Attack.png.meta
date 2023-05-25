@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: 2dd3783ab4e2ca444af0a36cd5c701f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5136
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99367e73fd8cfb24ebd3112f8a851677
+      internalID: 1475910356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 5136
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d174a2f10db84298bedf5387750ea
+      internalID: -790497758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 5136
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d0d5fd2fe14646a6fba0899d9ab96
+      internalID: 1035560443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 5136
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88be4713ade6ef48a9ceae94079331c
+      internalID: 54692805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 5136
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c6110a12a1ff469dae484c113f8d0
+      internalID: 1562952585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 5136
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3835322d2d0984aaceb1f61c369ec2
+      internalID: 1378089046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4280
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea0975d9635cd4d8c4a4c1fc0918c6
+      internalID: -1656434620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4280
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75081c7206ba864ca5814ef3560af55
+      internalID: 585906955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 4280
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34f323aa8690549b8a34c83075f51d
+      internalID: 777636866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 4280
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381bb562ccb4673499be221d9707ad16
+      internalID: 320890119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 4280
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89e78dc23b951446a60220031201999
+      internalID: -837072948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 4280
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22080f8d1673984e80e5698d5f704d1
+      internalID: 1350098884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3424
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ca370886a1fd49bbfaac8985ba59b
+      internalID: 427478595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3424
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dcf610b75c246449b88ccab37a82ab
+      internalID: -248700814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 3424
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b029bb9f03bf4fab7ee4ef1fb0d51
+      internalID: 442008098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 3424
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d18a819a83c0aa4f882470a23bff8ea
+      internalID: 1394539436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 3424
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a8aafd973d657429710a6558f2ed20
+      internalID: 218167602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 3424
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a49d8db8a8c9842836ab24ef968526
+      internalID: -666187730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ad726ba71c2d4aa91bbab987a6e40
+      internalID: -962425191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2568
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe6bab8ed4a43c469c0bf835277bb8a
+      internalID: -929957670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2568
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991d2b87a8592f4895a1e9e8d0cda99
+      internalID: -2036744286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2568
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47379aaea4f55549adadb274cca16c2
+      internalID: 1269373872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2568
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e812e6d71c80a034ca15a08b72bbbfbe
+      internalID: 1052606684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 2568
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd6b457e2b8b64492eed76fcb87fb5
+      internalID: 772929294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79547a2d6002a4b4b80c00c9d3713ed3
+      internalID: -516473497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1712
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ebda4d1ea6fa547b64949a33508f8c
+      internalID: 295471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1712
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb79ab94454c104c86832a0fc0861e0
+      internalID: -1074496614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1712
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1bc3a0bb473846ae8463126ac53b0
+      internalID: -1841607142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1712
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e49e16330c089f41b4ac1e644a15660
+      internalID: -787510720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1712
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e5be87fdb371d43b2eb266ae941cad
+      internalID: 425861384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7494151323a1fa43868d4fea495f4c7
+      internalID: -357548950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 856
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243df984871ce8f46a3bd7cee70619d6
+      internalID: -1737326062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 856
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f85dae7973ffc46b6dc19412a14cc9
+      internalID: -623995482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 856
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27462fb4b3b31184bbd8816b4c108705
+      internalID: 320646026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 856
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c65c951a5b3d0488f4cfbe2ba2a29f
+      internalID: -263128534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 856
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5c649c1a8a54140b8397f39105e2ad
+      internalID: 131437476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 824
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c5f043b868a0c418564957f9b73f11
+      internalID: 1772125205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MushroomKnight_Attack_0: 1475910356
+      MushroomKnight_Attack_1: -790497758
+      MushroomKnight_Attack_10: -837072948
+      MushroomKnight_Attack_11: 1350098884
+      MushroomKnight_Attack_12: 427478595
+      MushroomKnight_Attack_13: -248700814
+      MushroomKnight_Attack_14: 442008098
+      MushroomKnight_Attack_15: 1394539436
+      MushroomKnight_Attack_16: 218167602
+      MushroomKnight_Attack_17: -666187730
+      MushroomKnight_Attack_18: -962425191
+      MushroomKnight_Attack_19: -929957670
+      MushroomKnight_Attack_2: 1035560443
+      MushroomKnight_Attack_20: -2036744286
+      MushroomKnight_Attack_21: 1269373872
+      MushroomKnight_Attack_22: 1052606684
+      MushroomKnight_Attack_23: 772929294
+      MushroomKnight_Attack_24: -516473497
+      MushroomKnight_Attack_25: 295471780
+      MushroomKnight_Attack_26: -1074496614
+      MushroomKnight_Attack_27: -1841607142
+      MushroomKnight_Attack_28: -787510720
+      MushroomKnight_Attack_29: 425861384
+      MushroomKnight_Attack_3: 54692805
+      MushroomKnight_Attack_30: -357548950
+      MushroomKnight_Attack_31: -1737326062
+      MushroomKnight_Attack_32: -623995482
+      MushroomKnight_Attack_33: 320646026
+      MushroomKnight_Attack_34: -263128534
+      MushroomKnight_Attack_35: 131437476
+      MushroomKnight_Attack_36: 1772125205
+      MushroomKnight_Attack_37: -1350332981
+      MushroomKnight_Attack_38: 1076498703
+      MushroomKnight_Attack_39: -462788471
+      MushroomKnight_Attack_4: 1562952585
+      MushroomKnight_Attack_40: -614540835
+      MushroomKnight_Attack_5: 1378089046
+      MushroomKnight_Attack_6: -1656434620
+      MushroomKnight_Attack_7: 585906955
+      MushroomKnight_Attack_8: 777636866
+      MushroomKnight_Attack_9: 320890119
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

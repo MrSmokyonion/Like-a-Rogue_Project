@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: ae8afa680f5decf4d89f92a818ceac7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MushroomKnight_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11869
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0d583a6696ec409397d3d3fd3b5d1
+      internalID: 1773774123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 11869
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afbcf81e90cec4d9c12e1f4f76907c
+      internalID: 557465318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_2
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 11869
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f20cc328348f4197dd5c5cb368373
+      internalID: 440382820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_3
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 11869
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a824c9fdb5af34b8dbd8d2f255a015
+      internalID: 324806845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_4
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 11869
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c2dd09d8f00e4da743bea5106060e
+      internalID: 797500504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_5
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 11869
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9711a1e75a1254b8b62cc8b96caa0c
+      internalID: -2129444171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10956
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ef2e15371c3b49afdb0c9b7762d79
+      internalID: 983230026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_7
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 10956
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6183dac64f2f5449836699b596f9e69
+      internalID: 2085658796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 10956
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d9f281a482764ab85b0d3f69b2b22
+      internalID: -562029307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_9
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 10956
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726186623011154aabc99eab6313007
+      internalID: -1836604959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_10
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 10956
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb44a254e5141b4383bd88ba8c635f5
+      internalID: 1790070226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_11
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 10956
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a937f8ab8a5be740b018f41caedb730
+      internalID: -276239353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10043
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c2d0f58fd4c04ab2ba666ef8d59cb
+      internalID: 279969979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 10043
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cbc890e919564dba9e235344d84dd
+      internalID: -966624572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_14
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 10043
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4927976f2d2f4f8f441a1c20de033
+      internalID: 692177303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_15
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 10043
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907ad0066b2a824daf9c5bea5a4949d
+      internalID: 1969543591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_16
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 10043
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af64b2b8ba4a0741940098ecf701dc4
+      internalID: 986251763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_17
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 10043
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861a829b653c0f4eb9886f97b225284
+      internalID: 324262884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9130
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3bc447f987b874da99e4858d633047
+      internalID: -224769964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_19
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 9130
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948bf41caa63bf499fa1450c09faf15
+      internalID: -487531740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_20
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 9130
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab55195878bfe439d99c50d01fda0a
+      internalID: 1458498481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_21
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 9130
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10721f3f2c5251c408dda2430fbe9fb6
+      internalID: -162605737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_22
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 9130
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa4853c3726444d9281e4e20abd35c
+      internalID: 1023691004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_23
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 9130
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29765faf6019f2a4690914b3dfddd787
+      internalID: 1990032415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8217
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96f4b2032c55846b0301470b65eff8
+      internalID: -1721942271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_25
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 8217
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3c6de06b5880439f24d348e7b4d67
+      internalID: -60138184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_26
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 8217
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41d8d904a91974d814076941bc8b49
+      internalID: 347740957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_27
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 8217
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a230c1b56e1ccc4ba7b98b78afd328a
+      internalID: 890679927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_28
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 8217
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6b0f862e4d572409f1a34cb15d5e1e
+      internalID: 1048369883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_29
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 8217
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e9563acb92be4e9128f48260b2eb3
+      internalID: -1564959095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7304
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43f84ae9e998d4996456c46f999a73
+      internalID: 1922924445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_31
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 7304
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3daf61b33b39a41834154895ca20b0
+      internalID: -695987074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_32
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 7304
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ae92db1092324284c4bc7ece8991b
+      internalID: 442558646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_33
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 7304
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3161e788b980d6c4aa27aa85a04bc756
+      internalID: 107067220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_34
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 7304
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e129fb0d680e94ca477b99562ae907
+      internalID: 674871290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_35
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 7304
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742b7a5815ba784bbf5c15a1dcae108
+      internalID: 1982535586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6391
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21bbf5c2f4fe246867831a924009ed
+      internalID: -125751146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 6391
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239936f6fb3f904ab5f79e7d8e2ed37
+      internalID: -1422134763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_38
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 6391
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0de414924f6d1478c5f57c042c43ef
+      internalID: 1004727918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_39
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 6391
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a065013bca45a44b1872253d25c52f
+      internalID: 1091236840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_40
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 6391
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bce46bcc07c104c9f088363851fbcd
+      internalID: 1515551551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_41
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 6391
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d63a8a108008d049a333d507a4dcbc8
+      internalID: 1549655582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5478
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c001b978552e4088396c17e48e9ac
+      internalID: -335449942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_43
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5478
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b16d0d4dfd7a4c996ba97f670b39a
+      internalID: 762718354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_44
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 5478
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d61023ff4c8142b6e21af5ca5d779
+      internalID: -1087015505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_45
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 5478
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d68c7fd97bff1c4caa9feb70bdb8baa
+      internalID: -510139330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_46
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 5478
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfd02e0248cbf4ca541455c731bf41
+      internalID: -1058877420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_47
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 5478
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491c1cf32a72f048844ebfe25adfd2a
+      internalID: 1827776471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4565
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a2dfd806592e4b9941cf0dbdeff13
+      internalID: 898460583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_49
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 4565
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2822d925e2797234a8bd1b3a25ceb550
+      internalID: -1734008444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_50
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 4565
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a526d492286d70f48a6112462bcdcecf
+      internalID: -1306991702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_51
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 4565
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac11efc7229dd4d9581e5227d2a43f
+      internalID: 1674304262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_52
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 4565
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fadc7d94e2b2846ab4b39e2cb4d661
+      internalID: 219887144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_53
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 4565
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac71a133fd65064dbefa929ea2b9d14
+      internalID: -2028754252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3652
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007f623f402c1a940b42911fbb248d4e
+      internalID: 404823311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_55
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3652
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31974d6af43fef4ca492d92583dcb8d
+      internalID: 1671903530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_56
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 3652
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13ef4cbfc179a45b479dacbd31fdda
+      internalID: -622585150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_57
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 3652
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aac459120f50744a98923eb5d97fdf
+      internalID: -1612836963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_58
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 3652
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd139eb765065bf48b01722351e1c0e7
+      internalID: 739602634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_59
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 3652
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803ef68ba70ca5419bd8dd6cf6c9c47
+      internalID: 955081843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2739
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615aa3d3fbed2254bbf205778f7e5cc6
+      internalID: -159679258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_61
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2739
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7265a762d452144d813e3e09bf7faeb
+      internalID: 451100844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_62
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2739
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb17c858a9ac645af730a6c9ef09cf
+      internalID: 724866698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_63
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2739
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ad8d7e2998c1499ac694c8a80beb4
+      internalID: 1197390200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_64
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2739
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18346c918cadd49a65e23729302f63
+      internalID: 1469337201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_65
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 2739
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f7a16d89a7b04e96375a63b9f92f2
+      internalID: -1300056127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1826
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5347d7087692dbd48a944ee87280301c
+      internalID: -793079207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_67
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1826
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865dbdb28961284d9a85edb916932f5
+      internalID: 2086174164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_68
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1826
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770f4ac23915ad4d92f16de72a36fcc
+      internalID: 1673450008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_69
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1826
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f732f0787f8d44bb1700359071837c
+      internalID: -1730469179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_70
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1826
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2088c86d71614181aaa6e8bdad753
+      internalID: 344499904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_71
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1826
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9454f8e59c3dd48a70e34acf3c8d65
+      internalID: -1483691689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea43834db94edcc4cbd414bb0102fa80
+      internalID: 10562369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_73
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 913
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eda568bbc2fef46a21e1604d78f454
+      internalID: -1913862545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_74
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 913
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1eba4c04aa654c92ec13b51f5d6ec
+      internalID: 460682508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_75
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 913
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca884b2263acef0428eeefba3ab72d25
+      internalID: 113016099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_76
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 913
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f50e09a923f7244b78d6b45dcb2d44
+      internalID: -168760785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_77
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 913
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09496f2dd18e646a0e857f68d7858a
+      internalID: 650588936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9d299e471e3848a609cbe6056e805
+      internalID: 1122814684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_79
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e955fa990d7f42800c496ce64bcea
+      internalID: -38446800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_80
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 0
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d61d152e69854b9023f5631a6a39a
+      internalID: -616271004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Death_81
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 0
+        width: 761
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe230f18d7b3b14e84831e6deceb070
+      internalID: -1294435126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MushroomKnight_Death_0: 1773774123
+      MushroomKnight_Death_1: 557465318
+      MushroomKnight_Death_10: 1790070226
+      MushroomKnight_Death_11: -276239353
+      MushroomKnight_Death_12: 279969979
+      MushroomKnight_Death_13: -966624572
+      MushroomKnight_Death_14: 692177303
+      MushroomKnight_Death_15: 1969543591
+      MushroomKnight_Death_16: 986251763
+      MushroomKnight_Death_17: 324262884
+      MushroomKnight_Death_18: -224769964
+      MushroomKnight_Death_19: -487531740
+      MushroomKnight_Death_2: 440382820
+      MushroomKnight_Death_20: 1458498481
+      MushroomKnight_Death_21: -162605737
+      MushroomKnight_Death_22: 1023691004
+      MushroomKnight_Death_23: 1990032415
+      MushroomKnight_Death_24: -1721942271
+      MushroomKnight_Death_25: -60138184
+      MushroomKnight_Death_26: 347740957
+      MushroomKnight_Death_27: 890679927
+      MushroomKnight_Death_28: 1048369883
+      MushroomKnight_Death_29: -1564959095
+      MushroomKnight_Death_3: 324806845
+      MushroomKnight_Death_30: 1922924445
+      MushroomKnight_Death_31: -695987074
+      MushroomKnight_Death_32: 442558646
+      MushroomKnight_Death_33: 107067220
+      MushroomKnight_Death_34: 674871290
+      MushroomKnight_Death_35: 1982535586
+      MushroomKnight_Death_36: -125751146
+      MushroomKnight_Death_37: -1422134763
+      MushroomKnight_Death_38: 1004727918
+      MushroomKnight_Death_39: 1091236840
+      MushroomKnight_Death_4: 797500504
+      MushroomKnight_Death_40: 1515551551
+      MushroomKnight_Death_41: 1549655582
+      MushroomKnight_Death_42: -335449942
+      MushroomKnight_Death_43: 762718354
+      MushroomKnight_Death_44: -1087015505
+      MushroomKnight_Death_45: -510139330
+      MushroomKnight_Death_46: -1058877420
+      MushroomKnight_Death_47: 1827776471
+      MushroomKnight_Death_48: 898460583
+      MushroomKnight_Death_49: -1734008444
+      MushroomKnight_Death_5: -2129444171
+      MushroomKnight_Death_50: -1306991702
+      MushroomKnight_Death_51: 1674304262
+      MushroomKnight_Death_52: 219887144
+      MushroomKnight_Death_53: -2028754252
+      MushroomKnight_Death_54: 404823311
+      MushroomKnight_Death_55: 1671903530
+      MushroomKnight_Death_56: -622585150
+      MushroomKnight_Death_57: -1612836963
+      MushroomKnight_Death_58: 739602634
+      MushroomKnight_Death_59: 955081843
+      MushroomKnight_Death_6: 983230026
+      MushroomKnight_Death_60: -159679258
+      MushroomKnight_Death_61: 451100844
+      MushroomKnight_Death_62: 724866698
+      MushroomKnight_Death_63: 1197390200
+      MushroomKnight_Death_64: 1469337201
+      MushroomKnight_Death_65: -1300056127
+      MushroomKnight_Death_66: -793079207
+      MushroomKnight_Death_67: 2086174164
+      MushroomKnight_Death_68: 1673450008
+      MushroomKnight_Death_69: -1730469179
+      MushroomKnight_Death_7: 2085658796
+      MushroomKnight_Death_70: 344499904
+      MushroomKnight_Death_71: -1483691689
+      MushroomKnight_Death_72: 10562369
+      MushroomKnight_Death_73: -1913862545
+      MushroomKnight_Death_74: 460682508
+      MushroomKnight_Death_75: 113016099
+      MushroomKnight_Death_76: -168760785
+      MushroomKnight_Death_77: 650588936
+      MushroomKnight_Death_78: 1122814684
+      MushroomKnight_Death_79: -38446800
+      MushroomKnight_Death_8: -562029307
+      MushroomKnight_Death_80: -616271004
+      MushroomKnight_Death_81: -1294435126
+      MushroomKnight_Death_9: -1836604959
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
