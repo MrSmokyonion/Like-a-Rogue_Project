@@ -13,30 +13,31 @@ public class Platform : MonoBehaviour
     /// </summary>
     private float platform;
     
-    int _playerLayer, _groundLayer;
+    int _playerLayer, _groundLayer, _downLayer;
 
-    public Transform root;
+    public Transform head;
     // Start is called before the first frame update
     void Start()
     {
-        _playerLayer = LayerMask.NameToLayer("Player");
-        _groundLayer = LayerMask.NameToLayer("Platform");
-
+        _playerLayer = LayerMask.NameToLayer("Player"); //7
+        _groundLayer = LayerMask.NameToLayer("Platform"); //6
+        _downLayer = LayerMask.NameToLayer("DownPlatform"); // 11
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.S) && Input.GetButtonDown("Jump")) // Jump키(스페이스바)와 S(아래)를 y축 속도가 0일 때 누르면 다운점프
+        if (head.transform.position.y > this.transform.position.y)
         {
-            if (root.transform.position.y > this.transform.position.y)
+            if (Input.GetKey(KeyCode.S) && Input.GetButtonDown("Jump")) // Jump키(스페이스바)와 S(아래)를 y축 속도가 0일 때 누르면 다운점프
             {
-                Physics2D.IgnoreLayerCollision(_playerLayer,_groundLayer, true);
-            }
-            else
-            {
-                Physics2D.IgnoreLayerCollision(_playerLayer, _groundLayer, false);
-            }
+                gameObject.layer = 11;  
+            }     
         }
-}
+        else
+        {
+            gameObject.layer = 6;
+        }
+        Physics2D.IgnoreLayerCollision(_playerLayer, _downLayer, true);
     }
+}

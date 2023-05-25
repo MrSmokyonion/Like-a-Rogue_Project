@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 32cf474152902de4f98cfabc215732a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mandragora_hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acbe57dce4e17c4ea838289f2514411
+      internalID: -681452894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1896
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d68df6c09fc2bc4199df61d2323ee64
+      internalID: -1698764258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1896
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf435ab4b2b9be46bc46af9bb048cfc
+      internalID: -219430606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_3
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1896
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d743492fe34b4089fdef0afd5dfe5
+      internalID: -282257201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_4
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1896
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9afdb64a1a913f42a517ccb18571e84
+      internalID: -188749334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_5
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1896
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ccefd545e5e0141a806b4e698b21be
+      internalID: 45023515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372be1152bf65f640a47326337c0ddf2
+      internalID: -1715154306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1422
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262fe6e25a65ce54cb7ed76b52692900
+      internalID: -1198079610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1422
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c115408fdaee409b6ac5abfda898c
+      internalID: -1996072175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1422
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c20c6ae8677d47b4f8e34d9601bcc
+      internalID: 1162536275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_10
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1422
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3b321946c24549b5471ca3588851b
+      internalID: -374636153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_11
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1422
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b2a5445d851a47ac847055060ca2d
+      internalID: 465063689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942b4ea285958747804053e2f2b6a80
+      internalID: 1006359180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 948
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc3a71e72f1a4e4e8a50c5c8994bf8f
+      internalID: 713386853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 948
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe67bf51c98d9547820e6a33a32c764
+      internalID: -1295479673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 948
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f41ee5d273a441bf5c66a94e23489
+      internalID: 436196425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_16
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 948
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5fbf5711d99e4a817ed296bdf6d07
+      internalID: -10841919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_17
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 948
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897d4b6d3f7b4c4fbd15fe5f00de429
+      internalID: -464968848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e913622d1e35240accc6ebe10ec0d1
+      internalID: -1819791087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 474
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f74873a658494b47a5503fbf69c2d2f
+      internalID: -387429472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 474
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6e362c89157e4db1cc8234917da39
+      internalID: 514410081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 474
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f95c15ff23524a979fd3c9dad789a
+      internalID: 2123128132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_22
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 474
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f8bab71a210340bea48d307164437
+      internalID: 1408354316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_23
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 474
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26ccb7ecd60da478a7962e23b60ed4
+      internalID: 86417492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997895fccc6853439a890b8603856c3
+      internalID: -2050967201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cae65089141bd4f94c0cdb68b41796
+      internalID: 2006691921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_26
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24349466ee479b4080c8a0547365131
+      internalID: 1050612409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d3aa5a9c671a49b18a773db362dc1
+      internalID: -1201325227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_28
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94cb37aaa7cd3246985d02d0f4da63d
+      internalID: 29149479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mandragora_hit_29
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 560
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95223e018da150b4b9ab31cc488a373a
+      internalID: -1358755266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mandragora_hit_0: -681452894
+      Mandragora_hit_1: -1698764258
+      Mandragora_hit_10: -374636153
+      Mandragora_hit_11: 465063689
+      Mandragora_hit_12: 1006359180
+      Mandragora_hit_13: 713386853
+      Mandragora_hit_14: -1295479673
+      Mandragora_hit_15: 436196425
+      Mandragora_hit_16: -10841919
+      Mandragora_hit_17: -464968848
+      Mandragora_hit_18: -1819791087
+      Mandragora_hit_19: -387429472
+      Mandragora_hit_2: -219430606
+      Mandragora_hit_20: 514410081
+      Mandragora_hit_21: 2123128132
+      Mandragora_hit_22: 1408354316
+      Mandragora_hit_23: 86417492
+      Mandragora_hit_24: -2050967201
+      Mandragora_hit_25: 2006691921
+      Mandragora_hit_26: 1050612409
+      Mandragora_hit_27: -1201325227
+      Mandragora_hit_28: 29149479
+      Mandragora_hit_29: -1358755266
+      Mandragora_hit_3: -282257201
+      Mandragora_hit_4: -188749334
+      Mandragora_hit_5: 45023515
+      Mandragora_hit_6: -1715154306
+      Mandragora_hit_7: -1198079610
+      Mandragora_hit_8: -1996072175
+      Mandragora_hit_9: 1162536275
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

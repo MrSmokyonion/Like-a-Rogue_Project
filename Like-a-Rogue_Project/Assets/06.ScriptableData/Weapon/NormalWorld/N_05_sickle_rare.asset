@@ -15,12 +15,12 @@ MonoBehaviour:
   m_worldType: 0
   m_weaponGrade: 2
   m_weaponType: 6
-  m_attackDamage: 10
+  m_attackDamage: 15
   m_attackDelay: 0
   m_ammo: 0
   m_reloadDelay: 0
   m_specialAttackMethod:
     m_PersistentCalls:
       m_Calls: []
-  m_specialAttackDamage: 14
-  m_specialAttackDelay: 5
+  m_specialAttackDamage: 20
+  m_specialAttackDelay: 8

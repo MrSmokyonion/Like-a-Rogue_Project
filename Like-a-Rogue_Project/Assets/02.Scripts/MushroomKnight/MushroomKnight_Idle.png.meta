@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: 4515f55a35a0bb8449a4dbf7449ce811
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7550
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75efc12d9ff0a284abc785bf8c3ccb93
+      internalID: 762118616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 7550
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937425c35f6dad0499ef858b676c009d
+      internalID: -528770109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 7550
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d946d4286c2348741ad6533a73c90caf
+      internalID: -1931339171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 7550
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43957b9cf6723d46b42b5dc1472b445
+      internalID: 1389382976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 7550
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82238e1f152112242970e33e9d47f053
+      internalID: -283755022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 7550
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf0971752a08df458e7edda0e613b77
+      internalID: 2001401327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6795
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872fc51c4ab5e148b8c381109010260
+      internalID: -1835054234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 6795
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19546a6d222b20438df5f9d26acd200
+      internalID: 649958866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 6795
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f95a587f70c04193e2aff931c0150
+      internalID: 1918839150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 6795
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f28014b9e74e42930d430a7f03ca7
+      internalID: 1336301760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 6795
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb28aa655eb420b479c5ab7d350a2d7e
+      internalID: -337773210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 6795
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348b04fcc2229147b633679bd8542c0
+      internalID: -1905383256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6040
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c304f5275d3c02742a700385c861e2a3
+      internalID: -1299607561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 6040
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee92e1783c1a048a77e113b2c4ef20
+      internalID: 1018683782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 6040
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ee5dc63c07ec41b454879fea791bd
+      internalID: -722141107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 6040
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4f2c10b792e54390f1a3623d4d715
+      internalID: -1729080536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 6040
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b514e486d7dd00c4899ddb19e498e8df
+      internalID: -1893544012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 6040
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec0dcd927b2da34e830d1788e775493
+      internalID: 1451761507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5285
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a7cb9028d48e4fb2a469f0c04544a
+      internalID: 268387638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5285
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23283d8ac528a72438694c9ba8a0553e
+      internalID: -191248205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 5285
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c5c602139cbe04fa90a26633667301
+      internalID: 1322092874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 5285
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c9ae978f63bc498b71a972e66528a
+      internalID: -547389023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 5285
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ccee1ad64d788419760a99fadd96fd
+      internalID: -219698970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 5285
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d0d100afbbae428febd2bf8568d2f
+      internalID: -1966119829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4530
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7522d743fc338409e8415aec757858
+      internalID: -1055358439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4530
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f4bfbcd69b2db47bcabcbde95c049f
+      internalID: -1277848203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4530
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d72e38b295f9e346861a5317a9c708e
+      internalID: -1993943457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 4530
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c49627a271012488ec1284a8ebd58f
+      internalID: 302576424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 4530
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10af5acb42f04d541b8d7baf4578a3ee
+      internalID: 1392527104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 4530
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42811ab32a85524388efd94874a3c85
+      internalID: -1854110197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3775
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9a76f76ab8c6049b93916fdfec61e6
+      internalID: -2101597383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3775
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c563e020f3cf324d97b11fbd60ad1e6
+      internalID: -166963379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3775
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87af8666cceadb4bb69aaf35462c8b9
+      internalID: -1508155702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3775
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7ed69a2e2504548a0a85f258a5ac8d
+      internalID: -1400583149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3775
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4ce78e1dc3d649bcd2b167a1d8eb3
+      internalID: -855577967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 3775
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3212afbde7855f4e89e5e4237e9a229
+      internalID: 653071604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3020
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c5a313a887f36498b929c01cd7cfda
+      internalID: -1436505882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3020
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8368f5094a3941bcd73614b9522f4
+      internalID: -1350464234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3020
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583a4e8285e2ee47b10703c9acefe9c
+      internalID: 1394690074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3020
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab8f65380b9db84ebaef6d2ebbe7e24
+      internalID: -915161192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3020
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df65743957003ae469b79964d3cd2756
+      internalID: 1029873823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 3020
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd841a96d7df12418ec860c8cc4df8a
+      internalID: 1101095410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2265
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7578f35c4f254abc090a0452ad542
+      internalID: -498670954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2265
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4624f1391b4d841a6b83750e443d8a
+      internalID: -941000333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2265
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587844a95fbaa8419dfc98a54618e88
+      internalID: 1811887305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2265
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0f4af302262d43a1162fd9577e21b
+      internalID: 1301370683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2265
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074b4e36f469114b918835ce1d0d223
+      internalID: 852490043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2265
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f8f26284342e47835424559ffa412
+      internalID: -758327272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1510
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35ead27126958458b3f304184fe413
+      internalID: -368249280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1510
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc11f450bc0fa48ad97714b806dda3
+      internalID: -44450413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1510
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f235e290bdc3438145a710f42af02
+      internalID: -2085088517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1510
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be250dd8ee04048ad2b156859178f4
+      internalID: -515282832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1510
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0374f775f408a14691c33dcf124301c
+      internalID: -1086496873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1510
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72594440419b74469bd9f160392fdce
+      internalID: -951855460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7c6cf716d58bc4c9e82cc7790ae105
+      internalID: 781623266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 755
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2348007733df4f449d335b1f71e06b9
+      internalID: -1603855179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 755
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d6de695af1a747aca0d5b4db8185b
+      internalID: -806488084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 755
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e55b5a11956f04fab816986b038857
+      internalID: 364719229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 755
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b80a3b7ba16049a1fcca81b5ae03e
+      internalID: 851363626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 755
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c78e1406fac2e4291a5b393f7a0f33
+      internalID: -1603190201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580754780dcd92f4092f7cdea8968eae
+      internalID: 2004440803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494daa1108fe5546906e1e5d0c970ff
+      internalID: -1720815025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7254bad4cbebd4993fbc218d7d2970
+      internalID: 116895932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24a4aa030519844db586d7cbfa86168
+      internalID: 1890597255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_64
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 0
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0b40bb13876c42ba59cd383acc5c9
+      internalID: 461934767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomKnight_Idle_65
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 0
+        width: 434
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f62117e8b3fa948b3a0d3150571abb
+      internalID: 1747959746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MushroomKnight_Idle_0: 762118616
+      MushroomKnight_Idle_1: -528770109
+      MushroomKnight_Idle_10: -337773210
+      MushroomKnight_Idle_11: -1905383256
+      MushroomKnight_Idle_12: -1299607561
+      MushroomKnight_Idle_13: 1018683782
+      MushroomKnight_Idle_14: -722141107
+      MushroomKnight_Idle_15: -1729080536
+      MushroomKnight_Idle_16: -1893544012
+      MushroomKnight_Idle_17: 1451761507
+      MushroomKnight_Idle_18: 268387638
+      MushroomKnight_Idle_19: -191248205
+      MushroomKnight_Idle_2: -1931339171
+      MushroomKnight_Idle_20: 1322092874
+      MushroomKnight_Idle_21: -547389023
+      MushroomKnight_Idle_22: -219698970
+      MushroomKnight_Idle_23: -1966119829
+      MushroomKnight_Idle_24: -1055358439
+      MushroomKnight_Idle_25: -1277848203
+      MushroomKnight_Idle_26: -1993943457
+      MushroomKnight_Idle_27: 302576424
+      MushroomKnight_Idle_28: 1392527104
+      MushroomKnight_Idle_29: -1854110197
+      MushroomKnight_Idle_3: 1389382976
+      MushroomKnight_Idle_30: -2101597383
+      MushroomKnight_Idle_31: -166963379
+      MushroomKnight_Idle_32: -1508155702
+      MushroomKnight_Idle_33: -1400583149
+      MushroomKnight_Idle_34: -855577967
+      MushroomKnight_Idle_35: 653071604
+      MushroomKnight_Idle_36: -1436505882
+      MushroomKnight_Idle_37: -1350464234
+      MushroomKnight_Idle_38: 1394690074
+      MushroomKnight_Idle_39: -915161192
+      MushroomKnight_Idle_4: -283755022
+      MushroomKnight_Idle_40: 1029873823
+      MushroomKnight_Idle_41: 1101095410
+      MushroomKnight_Idle_42: -498670954
+      MushroomKnight_Idle_43: -941000333
+      MushroomKnight_Idle_44: 1811887305
+      MushroomKnight_Idle_45: 1301370683
+      MushroomKnight_Idle_46: 852490043
+      MushroomKnight_Idle_47: -758327272
+      MushroomKnight_Idle_48: -368249280
+      MushroomKnight_Idle_49: -44450413
+      MushroomKnight_Idle_5: 2001401327
+      MushroomKnight_Idle_50: -2085088517
+      MushroomKnight_Idle_51: -515282832
+      MushroomKnight_Idle_52: -1086496873
+      MushroomKnight_Idle_53: -951855460
+      MushroomKnight_Idle_54: 781623266
+      MushroomKnight_Idle_55: -1603855179
+      MushroomKnight_Idle_56: -806488084
+      MushroomKnight_Idle_57: 364719229
+      MushroomKnight_Idle_58: 851363626
+      MushroomKnight_Idle_59: -1603190201
+      MushroomKnight_Idle_6: -1835054234
+      MushroomKnight_Idle_60: 2004440803
+      MushroomKnight_Idle_61: -1720815025
+      MushroomKnight_Idle_62: 116895932
+      MushroomKnight_Idle_63: 1890597255
+      MushroomKnight_Idle_64: 461934767
+      MushroomKnight_Idle_65: 1747959746
+      MushroomKnight_Idle_7: 649958866
+      MushroomKnight_Idle_8: 1918839150
+      MushroomKnight_Idle_9: 1336301760
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
