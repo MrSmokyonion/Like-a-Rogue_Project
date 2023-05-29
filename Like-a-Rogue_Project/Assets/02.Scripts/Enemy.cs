@@ -37,6 +37,8 @@ public class Enemy : MonoBehaviour
     private bool isAttack = false;
     private float attackTime;
     private float defaultTime = 0.967f;
+
+    
     void Start()
     {
         rigid = GetComponent<Rigidbody2D>();
@@ -164,31 +166,36 @@ public class Enemy : MonoBehaviour
 
     IEnumerator Death()  // 사망처리  -> 사망모션 후 오브젝트 파괴 + 움직임 멈춤 + 피격 X  
     {
-        anim.SetTrigger("isDeath");
-        isDeath = true;
-        yield return new WaitForSeconds(0.5f);
+        if (!anim.GetCurrentAnimatorStateInfo(0).IsName("Death"))
+        {
+            anim.SetTrigger("isDeath");
+            isDeath = true;
+        }
+
         if (isDeath == true)
         {
-            speed = 0; // 움직임 멈춤
-                                            //피격 방지
+            nextMove = 0; // 움직임 멈춤
+            //피격 방지
         }
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Death"))
         {
             anim.ResetTrigger("isHit");
             anim.ResetTrigger("isAttack");
         }
-        
-        
+       // yield return new WaitForSeconds(0.5f);
 
-        if (anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 0.99f)
+        if (anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1.0f)
         {
             this.gameObject.SetActive(false);
             //Destroy(gameObject);
         }
         
+        
         //this.gameObject.SetActive(false);
         //Destroy(gameObject);
+        yield break;
     }
+    
 
 
     

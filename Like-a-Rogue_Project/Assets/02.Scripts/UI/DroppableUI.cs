@@ -9,10 +9,16 @@ public class DroppableUI : MonoBehaviour, IDropHandler
 {
     private DraggableUI m_currentDroppedObject;
     [HideInInspector] public Image m_imageRenderer;
+    public Sprite m_normalSword;
 
     private void Start()
     {
         m_imageRenderer = GetComponent<Image>();
+        
+        m_imageRenderer.sprite = m_normalSword;
+        m_currentDroppedObject = InventoryManager._instance.GetInvSlotWeaponImageObj(0).GetComponent<DraggableUI>();
+        m_currentDroppedObject.m_isEquit = true;
+        GetComponent<CanvasGroup>().alpha = 1f;
     }
 
     public void OnDrop(PointerEventData eventData)

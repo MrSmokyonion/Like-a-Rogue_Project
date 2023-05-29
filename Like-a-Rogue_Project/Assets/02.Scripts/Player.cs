@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEditor.Rendering;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -22,8 +23,7 @@ public class Player : MonoBehaviour
     public float dashTime; // 대쉬를 하고있는 시간
     public float defaultTime;
     private float defaultSpeed; // 현재 속도
-
-    private bool isAttack;
+    
     private SpriteRenderer renderer;
 
     private Animator anim;
@@ -32,8 +32,18 @@ public class Player : MonoBehaviour
     public Transform root; //플레이어 발 위치
 
     public GameObject[] weapons;
+    public HitUIContainer m_hitUI;
 
+    //private int isAttackNum;
+    private bool isAttack = false;
+    private float attack1Time;
+    private float attack1Speed = 0.333f;
+
+    private float attack2Time;
+    private float attack2Speed = 0.5f;
     // private bool weaponSet = false; //무기 장착여부
+
+    [SerializeField] private Transform weaponPos;
 
     /// <summary>
     /// 대시 구현
@@ -85,8 +95,8 @@ public class Player : MonoBehaviour
         //대쉬
         Dash();
         //공격
-        Attack();
-        
+        StartCoroutine(Attack());
+
     }
 
     void Move()
@@ -100,16 +110,20 @@ public class Player : MonoBehaviour
         if (rigid.velocity.x < 0)
         {
             renderer.flipX = true;
+            weaponPos.localPosition = new Vector3(MathF.Abs(weaponPos.localPosition.x)*-1, weaponPos.localPosition.y, weaponPos.localPosition.z); 
+            weaponPos.localRotation = new Quaternion(0, 180f, 0, 0);
             //hand.transform.localPosition = new Vector3(1.2f *(-1), -0.85f, 0);
             //hand.transform.localPosition = new Vector3(1.8f *(-1), -0.35f, 0);
-            hand.transform.localPosition = new Vector3(1.5f, 0.5f, 0);
+            //hand.transform.localPosition = new Vector3(1.5f, 0.5f, 0);
         }
         else if (rigid.velocity.x > 0)
         {
             renderer.flipX = false;
+            weaponPos.localPosition = new Vector3(MathF.Abs(weaponPos.localPosition.x), weaponPos.localPosition.y, weaponPos.localPosition.z);
+            weaponPos.localRotation = new Quaternion(0, 0, 0, 0);
             //hand.transform.localPosition = new Vector3(1.2f, -0.85f, 0);
             //hand.transform.localPosition = new Vector3(1.8f, -0.35f, 0);
-            hand.transform.localPosition = new Vector3(3.7f * (-1), 0.5f, 0);
+            //hand.transform.localPosition = new Vector3(3.7f * (-1), 0.5f, 0);
         }
         
         
@@ -199,17 +213,65 @@ public class Player : MonoBehaviour
         }
         isDash = false;
     }
-    void Attack()
+    
+    
+    IEnumerator Attack()
     {
-        if (Input.GetMouseButton(0)) //마우스 왼쪽 버튼  -> 일반 공격
+        /*
+        if (Input.GetMouseButtonDown(0) &&
+            !anim.GetCurrentAnimatorStateInfo(0).IsName("Player_attack_1") && isAttack == false) //마우스 왼쪽 버튼  -> 일반 공격
             {
                 isAttack = true;
+                anim.SetTrigger("isAttack_1");
+                //attack1Time = attack1Speed; // attack1의 실행시간 -> 디폴트 시간(0.333초)
+                //attack1Time -= Time.deltaTime;
+                
+                //if (attack1Time <= 0)
+                if(anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1.0f)
+                {
+                    attack2Time = attack2Speed; // attack1이 끝난 후 0.5초 안에 클릭해야 attack2실행   <디폴트 시간 (0.5초)>
+                    attack2Time -= Time.deltaTime;
+                    if (Input.GetMouseButtonDown(0) && !anim.GetCurrentAnimatorStateInfo(0).IsName("Player_attack_2") && isAttack == true &&
+                        attack2Time > 0)
+                    {
+                        //if (Input.GetMouseButtonDown(0))
+                        anim.SetTrigger("isAttack_2");
+                        if (anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1.0f)
+                            isAttack = false;
+                    }
+                }
+                //isAttack = false;
             }
 
         if (Input.GetKey(KeyCode.X)) // X키 -> 특수공격
         {
 
         }
+
+        yield break;
+        */
+        
+        if (Input.GetMouseButtonDown(0)) //마우스 왼쪽 버튼  -> 일반 공격
+        {
+            isAttack = true;
+            anim.SetTrigger("isAttack_2");
+            //attack1Time = attack1Speed; // attack1의 실행시간 -> 디폴트 시간(0.333초)
+            //attack1Time -= Time.deltaTime;
+            if (anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1.0f)
+            {
+                isAttack = false;
+            }
+            /*
+            if (attack1Time >= 0)
+            {
+                isAttack = true;
+                anim.SetTrigger("isAttack_1");
+            }
+            else
+                isAttack = false;
+                */
+        }
+        yield break;
     }
 
     void Swap()
@@ -232,6 +294,8 @@ public class Player : MonoBehaviour
 
     void OnDamaged()
     {
+        m_hitUI.Do_HitAnim();
+        
         hp = hp - 1;
         
 
