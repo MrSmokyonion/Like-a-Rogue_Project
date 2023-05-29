@@ -13,6 +13,7 @@ public class TitleSceneManager : MonoBehaviour
     [Header("Start Animation Ref")] 
     public DOTweenAnimation m_TitleDOTween;
     public DOTweenAnimation m_ButtonDOTween;
+    public DOTweenAnimation m_StartButtonDOTween;
     public DOTweenAnimation m_FadeDOTween;
     public DOTweenAnimation m_cameraDOTween;
     
@@ -34,6 +35,7 @@ public class TitleSceneManager : MonoBehaviour
         //m_fadeInOut.Do_FadeIn();
         m_TitleDOTween.DORestartById("Out");
         m_ButtonDOTween.DORestartById("Out");
+        m_StartButtonDOTween.DORestartById("Out");
         m_FadeDOTween.gameObject.SetActive(true);
         m_cameraDOTween.DORestartById("Out");
         StartCoroutine(LoadSceneAsync());
@@ -50,6 +52,7 @@ public class TitleSceneManager : MonoBehaviour
     
     IEnumerator LoadSceneAsync()
     {
+        PlayerPrefs.SetString("LoadScene", "Tutorial Scene");
         yield return new WaitForSeconds(2.0f);
         
         Scene targetScene = SceneManager.GetSceneByName(m_StageSceneName);

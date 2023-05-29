@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class InventoryManager : MonoBehaviour
 {
@@ -10,6 +11,8 @@ public class InventoryManager : MonoBehaviour
     public int m_equitMainWeaponIndex = 0;
     public int m_equitSubWeaponIndex = 1;
     public List<WeaponStat> m_weaponItems;
+
+    public WeaponStat m_normalSword;
 
     [SerializeField] private List<InventoryItemButton> m_InventorySlots;
 
@@ -25,7 +28,6 @@ public class InventoryManager : MonoBehaviour
         }
 
         _instance = this;
-        DontDestroyOnLoad(gameObject);
     }
 
     private void Start()
@@ -33,6 +35,7 @@ public class InventoryManager : MonoBehaviour
         m_ingameUIController = FindObjectOfType<InGameWeaponHpUIController>();
         m_equitWeaponUIController = FindObjectOfType<EquitWeaponUIController>();
 
+        AddItem(m_normalSword);
         FreshInventorySlots();
     }
 
@@ -80,6 +83,11 @@ public class InventoryManager : MonoBehaviour
         {
             Debug.Log("Inventory is Empty!");
         }
+    }
+
+    public GameObject GetInvSlotWeaponImageObj(int _i)
+    {
+        return m_InventorySlots[_i].transform.GetChild(0).gameObject;
     }
     
     public void SwapWeaponMainSub()

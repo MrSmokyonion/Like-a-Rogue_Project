@@ -11,6 +11,7 @@ public class TitleUIController : MonoBehaviour
 
     public void Btn_Start()
     {
+        PlayerPrefs.SetString("LoadScene", "PlayerTestScene 1");
         TitleSceneManager._instance.StartGame();
     }
     

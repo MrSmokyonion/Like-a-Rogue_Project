@@ -12,6 +12,18 @@ EditorBuildSettings:
     path: Assets/01.Scenes/Title Scene.unity
     guid: 34af0abded0ee914eb3c894604bc8f65
   - enabled: 1
+    path: Assets/01.Scenes/Loading Scene.unity
+    guid: 646a74bd2261c475dba32eacc88b13a1
+  - enabled: 0
     path: Assets/01.Scenes/Player+Inventory Scene.unity
     guid: 3c3b28d818e421645bc8f07863b12062
+  - enabled: 0
+    path: Assets/01.Scenes/PlayerTestScene 1.unity
+    guid: 8c388f388b2b5744885aa7348d6e2907
+  - enabled: 1
+    path: Assets/01.Scenes/Tutorial Scene.unity
+    guid: af673761d8beabc4384d83ca2b813c43
+  - enabled: 1
+    path: Assets/01.Scenes/PlayerTestScene 2.unity
+    guid: 7d9e6b668f4651c4a9fff1f372c18800
   m_configObjects: {}

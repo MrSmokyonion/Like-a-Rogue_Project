@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Platform
   - Enemy
+  - Weapon_Item
+  - Weapon
   layers:
   - Default
   - TransparentFX
@@ -19,8 +21,8 @@ TagManager:
   - Enemy
   - Trap
   - DownPlatform
-  - 
-  - 
+  - Weapon
+  - Weapon_Item
   - 
   - 
   - 
